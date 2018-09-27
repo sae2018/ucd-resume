@@ -39,3 +39,7 @@ footer .cv-pdf i:hover {color: #e84610; transition: all .35s ease-in-out; -moz-t
 .social-links {padding-bottom: 15px;}
 .social-links li a i {width: 32px; height: 32px; padding: 12px 0; border-radius: 50%; font-size: 13px; line-height: 7px; text-align: center; color: #fafafa; background: #8f8f8f; transition: all .35s ease-in-out; -moz-transition: all .35s ease-in-out; -webkit-transition: all .35s ease-in-out; -o-transition: all .35s ease-in-out;}
 .social-links li a i:hover {background: #e84610;}
+
+/*-- Three Reasons --*/
+.three-reasons-icon {font-size: 26px; color: #e67e22;}
+.three-reasons-heading {margin-bottom: 15px;}
